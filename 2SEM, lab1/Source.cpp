@@ -170,6 +170,8 @@ int main()
 	setlocale(LC_CTYPE, "ru");
 
 	cout << "change" << endl;
+		
+	cout << "master change" << endl;
 
 	printf("Задание №1\n");
 	var1Ex1();
