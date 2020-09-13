@@ -167,6 +167,7 @@ int var1Ex2()
 
 int main()
 {
+	cout << "change by dopbranch" << endl;
 	setlocale(LC_CTYPE, "ru");
 
 	cout << "change" << endl;
