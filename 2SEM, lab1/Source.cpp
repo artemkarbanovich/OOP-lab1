@@ -173,6 +173,8 @@ int main()
 		
 	cout << "master change" << endl;
 
+	cout << "изменение для работы с ветками" << endl;
+
 	printf("Задание №1\n");
 	var1Ex1();
 
